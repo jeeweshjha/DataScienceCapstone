@@ -1,4 +1,4 @@
 Capstone
 ========
 
-Capstone Project, a predictive keyboard
+Capstone Project, a Milestone Report
