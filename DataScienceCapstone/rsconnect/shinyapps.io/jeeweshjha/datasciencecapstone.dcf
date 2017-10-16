@@ -1,0 +1,12 @@
+name: DataScienceCapstone
+title: DataScienceCapstone
+username:
+account: jeeweshjha
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 225707
+bundleId: 1028659
+url: https://jeeweshjha.shinyapps.io/datasciencecapstone/
+when: 1508150141.04248
+asMultiple: FALSE
+asStatic: FALSE
